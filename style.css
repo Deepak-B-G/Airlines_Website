@@ -1,0 +1,40 @@
+body {
+    background-image: url(airplane.webp);
+    background-size: cover;
+}
+#form {
+    background-color: black;
+    height: 500px;
+    width:800px;
+    padding: 20px;
+    margin: auto;
+    opacity: 0.7;
+}
+.button {
+    background-color: #FFA500; 
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    opacity: 0.5;
+}  
+#signup {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.carousel-inner img {
+    width: 500px;
+    height: 90px;
+    
+  }
+ 
